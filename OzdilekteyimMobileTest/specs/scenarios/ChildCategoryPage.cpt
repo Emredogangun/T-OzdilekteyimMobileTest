@@ -1,0 +1,13 @@
+Created by testinium on 25.07.2021
+
+This is a concept file with following syntax for each concept.
+
+# “pantolon” kategorisi açılır.
+* "PantolonBy" elementine tıkla
+
+# Sayfanın en aşagasına gelene kadar swipe edilir.
+*Sayfayı aşağıya kaydır
+
+# Ekranda ki son ürün için favoriye ekleme butonuna tıklanır.
+* "lastProductBy" elementine tıkla
+

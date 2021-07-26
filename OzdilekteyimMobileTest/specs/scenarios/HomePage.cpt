@@ -1,0 +1,13 @@
+Created by testinium on 25.07.2021
+
+This is a concept file with following syntax for each concept.
+
+# Uygulamanın açıldığı kontrol edilir.
+* "Anasayfa" isimli sayfada "startShoppingStoreBy" var mı kontrol et
+
+
+# Alışverişe başla butonuna tıklanır.
+* "startShoppingStoreBy" elementine tıkla
+
+# Alışveriş sayfasının açıldıgı doğrulanır.
+*"Alışveriş" isimli sayfada "relLayMarketBy" var mı kontrol et

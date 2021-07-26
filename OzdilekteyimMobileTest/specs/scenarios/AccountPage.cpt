@@ -1,0 +1,16 @@
+Created by testinium on 25.07.2021
+
+This is a concept file with following syntax for each concept.
+
+# Giriş yapma sayfasının açıldığı dogrulanır.
+* "Giriş yapma" isimli sayfada "btnLoginBy" var mı kontrol et
+
+# geri butonuna tıklanır kampanyalar sayfasının tekrar açıldıgı kontrol edilir.
+*"ivBackBy" elementine tıkla
+* "Kampanyalar" isimli sayfada "recyclerViewBy" var mı kontrol et
+
+# Sepetim butonuna tıklanır.
+*"cartBy" elementine tıkla
+
+# uygulama kapatılır.
+* "5" kadar bekle

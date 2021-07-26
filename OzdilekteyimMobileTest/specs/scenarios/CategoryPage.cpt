@@ -1,0 +1,14 @@
+Created by testinium on 25.07.2021
+
+This is a concept file with following syntax for each concept.
+
+# Katogiriler Sayfası Açılır.
+* "categoriesBy" elementine tıkla
+
+# Katogoriler Sayfasının açıldıgı dogrulanır.
+* "Kategoriler" isimli sayfada "recyclerCategoriesBy" var mı kontrol et
+
+# menüden “Kadın” Seçeneğine tıklanır.
+* "womanBy" elementine tıkla
+
+
